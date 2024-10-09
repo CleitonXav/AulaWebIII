@@ -1,0 +1,4 @@
+echo Olá Mundo > exemplo.txt
+Isso criará o arquivo exemplo.txt com o texto "Olá Mundo" na pasta atual.
+
+ultilizado para criar arquivo em modo .txt 
